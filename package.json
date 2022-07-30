@@ -1,0 +1,21 @@
+{
+  "name": "nyc-bus-transit-nearby-go-postgres-redis-leaflet",
+  "version": "1.0.0",
+  "description": "# 🚀 Mobile web app for discovering public transit in NYC 🚀",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brnstz/bus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brnstz/bus/issues"
+  },
+  "homepage": "https://github.com/brnstz/bus#readme"
+}
